@@ -1,3 +1,3 @@
 # DEMO
 
-This is a remo repository!
+This is a demo repository!
